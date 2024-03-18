@@ -10,7 +10,7 @@ adicionei a verificação de funcionamento da API, caso a API apresente erros na
 
 Dados de consulta :
 
-![image](https://github.com/Brayandev0/Script-para-ver-cota-o-de-moedas/assets/84828739/0ea1eee0-6a94-4200-91d6-39dc15a38bcf)
+![image](https://github.com/Brayandev0/Script-para-ver-cota-o-de-moedas/assets/84828739/149019aa-a534-45d8-ba09-a6b35f30aac6)
 
 
 Tratamento de erro do meu script :
