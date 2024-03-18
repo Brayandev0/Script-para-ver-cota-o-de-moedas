@@ -19,5 +19,5 @@ Tratamento de erro do meu script :
 ![image](https://github.com/Brayandev0/Script-para-ver-cota-o-de-moedas/assets/84828739/9aace75c-443b-4825-9773-27b8dbb39a7b)
 
 
-Quero agradecer os donos da API utilizada : [ https://economia.awesomeapi.com.br/last/ ] 
+Quero agradecer os donos da API utilizada : [ https://economia.awesomeapi.com.br/ ] 
 pela disponibilidade pública da API
